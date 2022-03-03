@@ -32,8 +32,6 @@ graph TD
  	
 
 
-
-
 attempt to make a checklist of potential solutions 
 if red-lang executable fails to run
 
